@@ -1,0 +1,7 @@
+configparser
+datetime
+emoji
+requests
+aiogram
+bs4
+fake-useragent
